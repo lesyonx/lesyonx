@@ -6,7 +6,7 @@
 - 👑 I've been working on the Flaxin bot series on discord for 3 years, but unfortunately this dream has come to an end.
 - 🔮 I will now share my open source projects for the benefit of all users.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/482916816738582537)](https://discord.com/users/482916816738582537)
+
 
 ## 🔧 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,6 +15,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/482916816738582537)](https://discord.com/users/482916816738582537)
 ## 📱 Social Media Accounts
 <p align="left">
 <a href="https://twitch.tv/byzaas" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
