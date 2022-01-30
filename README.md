@@ -22,9 +22,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%23AA336A.svg?style=for-the-badge&logo=glitch&logoColor=white)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/482916816738582537)](https://discord.com/users/482916816738582537)
-<a href="https://discord.com/users/482916816738582537" rel="nofollow">
-
 
 ## 📱 Social Media Accounts
 <p align="left">
@@ -34,5 +31,10 @@
  <a href="https://www.youtube.com/channel/UCHz4ydXkxWMaXsNyGlBb6Zg/videos" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<h1 style="font-size:35%;"><img src = "https://cdn.discordapp.com/emojis/813841028288741487.png" high="25px" width="40px"> © Byzas & Pokes</h1>
+## 🤍 Supporters
 
+- Wuwu#2331
+
+- ✤ Betty#0067
+
+<h1><img src = "https://cdn.discordapp.com/emojis/858340159451168789.webp?size=44&quality=lossless" high="25px" width="40px"> © Lesyon</h1>
