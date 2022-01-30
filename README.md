@@ -1,5 +1,5 @@
 ## Hello visitor! 
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/AstonishingDentalGermanspitz-size_restricted.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="http://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" width="500" height="320" />
 <img src="https://komarev.com/ghpvc/?username=lesyonx&label=Numbers%20of%20visitors&color=ff4600" alt="lesyonx" />
 
 - 💖 Let me give you brief information about myself.
