@@ -22,7 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%23AA336A.svg?style=for-the-badge&logo=glitch&logoColor=white)
 
-<img src="https://camo.githubusercontent.com/dd32860593bd9797546da79124728e31cab713c2420d8e6c3f86025fd1b09aa0/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f3730353636353831333939343031323639353f6869646554696d657374616d703d747275652669646c654d6573736167653d4a7573742532306368696c6c696e2725323061742532307468652532306d6f6d656e742e2e2e" align="right" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?hideTimestamp=true&amp;idleMessage=Just%20chillin'%20at%20the%20moment..." style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/dd32860593bd9797546da79124728e31cab713c2420d8e6c3f86025fd1b09aa0/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f3730353636353831333939343031323639353f6869646554696d657374616d703d747275652669646c654d6573736167653d4a7573742532306368696c6c696e2725323061742532307468652532306d6f6d656e742e2e2e" align="right" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/482916816738582537?hideTimestamp=true&amp;idleMessage=Just%20chillin'%20at%20the%20moment..." style="max-width: 100%;">
 ## 📱 Social Media Accounts
 <p align="left">
 <a href="https://www.instagram.com/lesyonx/" target"blank_"><img src="https://img.shields.io/badge/İnstagram%20-FFC0CB.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
