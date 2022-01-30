@@ -22,10 +22,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%23AA336A.svg?style=for-the-badge&logo=glitch&logoColor=white)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/482916816738582537)](https://discord.com/users/482916816738582537)
 <a href="https://discord.com/users/482916816738582537" rel="nofollow">
-  <img 
-align="right" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/482916816738582537?hideTimestamp=true&amp;idleMessage=Just%20chillin'%20at%20the%20moment..." style="max-width: 100%;">
-</a>
+
 
 ## 📱 Social Media Accounts
 <p align="left">
