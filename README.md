@@ -15,7 +15,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/482916816738582537)](https://discord.com/users/482916816738582537)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/482916816738582537?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/482916816738582537)
 
 ## 📱 Social Media Accounts
 <p align="left">
