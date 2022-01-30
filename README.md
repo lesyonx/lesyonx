@@ -1,9 +1,14 @@
+## Hello Github! 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <img src="https://komarev.com/ghpvc/?username=lesyonx&label=Numbers%20of%20visitors&color=ff4600" alt="lesyonx" />
 - 💖 Hello visitor! Let me give you brief information about myself.
+
 - ⚡ My name is Efe, I have been on the internet for many years.
+
 - 🍂 I've been developing a bot called Flaxin on discord for 3 years.
+
 - 👑 I've been working on the Flaxin bot series on discord for 3 years, but unfortunately this dream has come to an end.
+
 - 🔮 I will now share my open source projects for the benefit of all users.
 
 
