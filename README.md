@@ -6,7 +6,7 @@
 
 - ⚡ My name is Efe, I have been on the internet for many years.
 
-- 🍂 I've been developing a bot called Flaxin on discord for 3 years.
+- 🍂 I've been developing a bot called Flaxin on discord for 2.5 years.
 
 - 👑 I've been working on the Flaxin bot series on discord for 3 years, but unfortunately this dream has come to an end.
 
@@ -22,7 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%23AA336A.svg?style=for-the-badge&logo=glitch&logoColor=white)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/482916816738582537?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/482916816738582537)
+https://camo.githubusercontent.com/9a00fad0a32522e274639bb728e91bd870edccc4b6257c981c46788f9d8683e2/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f3737363138333038373939343337323135363f7468656d653d6461726b2662673d31383139316326616e696d617465643d66616c736526686964654469736372696d3d7472756526626f726465725261646975733d33307078
 
 ## 📱 Social Media Accounts
 <p align="left">
