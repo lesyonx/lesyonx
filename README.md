@@ -14,12 +14,13 @@
 
 
 
-## 🔧 Languages and Tools
+## 💎 Languages & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%230000FF.svg?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23249D9F.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Glitch](https://img.shields.io/badge/glitch-%23AA336A.svg?style=for-the-badge&logo=glitch&logoColor=white)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/482916816738582537?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/482916816738582537)
 
