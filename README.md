@@ -1,7 +1,8 @@
-## Hello Github! 
+## Hello visitor! 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <img src="https://komarev.com/ghpvc/?username=lesyonx&label=Numbers%20of%20visitors&color=ff4600" alt="lesyonx" />
-- 💖 Hello visitor! Let me give you brief information about myself.
+
+- 💖 Let me give you brief information about myself.
 
 - ⚡ My name is Efe, I have been on the internet for many years.
 
