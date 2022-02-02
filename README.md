@@ -21,6 +21,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%23AA336A.svg?style=for-the-badge&logo=glitch&logoColor=white)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/482916816738582537)](https://discord.com/users/482916816738582537)
+
 
 ## 📱 Social Media Accounts
 <p align="left">
